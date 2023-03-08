@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Flask and DearPyGui
 - 📫 fallencat.user@gmail.com
 
-[Visitor Count](https://hit.yhype.me/github/profile?user_id=105370438)
+![Visitor count](https://hit.yhype.me/github/profile?user_id=105370438)
