@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m @TheFallen-Cat
 - 👀 I’m interested in GUIs and APIs(and python ofc) 
-- 🌱 I’m currently learning Flask and 
+- 🌱 I’m currently learning Flask
 - 📫 fallencat.user@gmail.com
 
 
