@@ -9,4 +9,4 @@
 - 📫 fallencat.user@gmail.com
 
 
-![](ttps://komarev.com/ghpvc/?username=TheFallen-Cat&style=flat-square)
+![](https://komarev.com/ghpvc/?username=TheFallen-Cat&style=flat-square)
